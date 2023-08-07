@@ -1,1 +1,1 @@
-# fedorova_ai_architect_course
+Course homeworks
